@@ -20,8 +20,7 @@ export default function Home() {
             <a href="https://one.thesearchengine.company/">Clean interface (navigate with j, k, enter)</a>
 
             <h1>Graphs</h1>
-            <a href="https://roamresearch.com/#/app/searchtest5/page/u2mj-0mD3">Web graph in Roam Research</a>
-            <a href="https://roamresearch.com/#/app/searchtest5/graph">Roam Research Graph View</a>
+            <a href="https://roamresearch.com/#/app/searchtest5/graph">Web graph in Roam Research</a>
             <a href="https://griffinli.notion.site/Web-Graphs-e8e2ed6fd4584be0a8d26f24457ff02d">Neo4j Graph</a>
 
             <h1>Other search engines</h1>
