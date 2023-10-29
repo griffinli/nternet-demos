@@ -23,10 +23,8 @@ export default function Home() {
             <a href="https://roamresearch.com/#/app/searchtest5/graph">Web graph in Roam Research</a>
             <a href="https://griffinli.notion.site/Web-Graphs-e8e2ed6fd4584be0a8d26f24457ff02d">Neo4j Graph</a>
 
-            <h1>Other search engines</h1>
-            <a href="https://community.thesearchengine.company/">Hacker News and Reddit search</a>
-            <a href="http://ec2-44-199-219-222.compute-1.amazonaws.com:8080/">ChatGPT API + Google API (can also ask to generate an image, do math, write, etc.)</a>
-            <a href="http://ec2-44-199-219-222.compute-1.amazonaws.com:8080/fast">Faster ChatGPT-based search engine (but less capable)</a>
+            <h1>AI</h1>
+            <a href="https://searchgpt.griffinli.vercel.app">ChatGPT API + Google API</a>
         </>
     )
 }
