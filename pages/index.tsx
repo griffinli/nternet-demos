@@ -13,11 +13,11 @@ export default function Home() {
             </Head>
 
             <h1>Initial experiments</h1>
-            <a href="https://1.thesearchengine.company/">Display only the page title</a>
-            <a href="https://2.thesearchengine.company/">Search only curated &quot;high-quality&quot; sites</a>
-            <a href="https://3.thesearchengine.company/">Immediately redirect to first result</a>
-            <a href="https://4.thesearchengine.company/">Display all information</a>
-            <a href="https://one.thesearchengine.company/">Clean interface (navigate with j, k, enter)</a>
+            <a href="https://1.nternet.xyz/">Display only the page title</a>
+            <a href="https://2.nternet.xyz/">Search only curated &quot;high-quality&quot; sites</a>
+            <a href="https://3.nternet.xyz/">Immediately redirect to first result</a>
+            <a href="https://4.nternet.xyz/">Display all information</a>
+            <a href="https://one.nternet.xyz/">Clean interface (navigate with j, k, enter)</a>
 
             <h1>Graphs</h1>
             <a href="https://roamresearch.com/#/app/searchtest5/graph">Web graph in Roam Research</a>
