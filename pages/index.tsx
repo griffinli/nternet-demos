@@ -16,7 +16,6 @@ export default function Home() {
             <a href="https://1.nternet.xyz/">Display only the page title</a>
             <a href="https://2.nternet.xyz/">Search only curated &quot;high-quality&quot; sites</a>
             <a href="https://3.nternet.xyz/">Immediately redirect to first result</a>
-            <a href="https://4.nternet.xyz/">Display all information</a>
             <a href="https://one.nternet.xyz/">Clean interface (navigate with j, k, enter)</a>
 
             <h1>Graphs</h1>
